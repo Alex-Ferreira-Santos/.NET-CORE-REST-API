@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casa\\OneDrive\\Documents\\.NET CORE MVC REST API\\Commander\\Commander.csproj": {}
+    "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casa\\OneDrive\\Documents\\.NET CORE MVC REST API\\Commander\\Commander.csproj": {
+    "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casa\\OneDrive\\Documents\\.NET CORE MVC REST API\\Commander\\Commander.csproj",
+        "projectUniqueName": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "C:\\Users\\Casa\\OneDrive\\Documents\\.NET CORE MVC REST API\\Commander\\Commander.csproj",
+        "projectPath": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casa\\OneDrive\\Documents\\.NET CORE MVC REST API\\Commander\\obj\\",
+        "outputPath": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config"
