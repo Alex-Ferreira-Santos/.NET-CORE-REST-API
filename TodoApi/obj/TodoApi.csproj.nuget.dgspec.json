@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj": {}
+    "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj": {
+    "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj",
-        "projectName": "Commander",
-        "projectPath": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\Commander.csproj",
+        "projectUniqueName": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\TodoApi\\TodoApi.csproj",
+        "projectName": "TodoApi",
+        "projectPath": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\Commander\\obj\\",
+        "outputPath": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\.NET-MVC-REST-API\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
