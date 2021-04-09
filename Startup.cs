@@ -25,6 +25,7 @@ namespace TesteWS
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -34,6 +35,8 @@ namespace TesteWS
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors( options => options.AllowAnyOrigin().AllowAnyMethod());
 
             app.UseRouting();
 

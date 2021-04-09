@@ -18,3 +18,6 @@ D:\W10\Documents\GitHub\TesteWS\obj\Debug\netcoreapp3.1\staticwebassets\TesteWS.
 D:\W10\Documents\GitHub\TesteWS\obj\Debug\netcoreapp3.1\TesteWS.dll
 D:\W10\Documents\GitHub\TesteWS\obj\Debug\netcoreapp3.1\TesteWS.pdb
 D:\W10\Documents\GitHub\TesteWS\obj\Debug\netcoreapp3.1\TesteWS.genruntimeconfig.cache
+D:\W10\Documents\GitHub\TesteWS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\W10\Documents\GitHub\TesteWS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\W10\Documents\GitHub\TesteWS\obj\Debug\netcoreapp3.1\TesteWS.csproj.CopyComplete

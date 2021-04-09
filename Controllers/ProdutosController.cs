@@ -4,7 +4,7 @@ using TesteWS.models;
 
 namespace TesteWS.Controllers{
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ProdutosController: ControllerBase{
         [HttpGet]
         public IActionResult ObterTodos(){
@@ -37,6 +37,15 @@ namespace TesteWS.Controllers{
             item.Descricao = p.Descricao;
             item.Preco = p.Preco;
             item.Novo = p.Novo;
+            return NoContent();
+        }
+        [HttpDelete("{id}")]
+        public IActionResult Excluir(int id){
+            Produto item = BDMock.Produtos.Find(p => p.Id == id);
+            if(item == null){
+                return NotFound();
+            }
+            BDMock.Produtos.Remove(item);
             return NoContent();
         }
     }
