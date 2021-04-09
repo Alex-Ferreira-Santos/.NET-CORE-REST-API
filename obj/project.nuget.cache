@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbLtn5go9GpgSmp5dMDHKKfYMguAuDvw2E+AZ00/UbBsbmnx7jntOeUPnanPdsXu9MT8KcucRoXXbM5TrL6WFQ==",
+  "dgSpecHash": "ZDEt0vJRPnbwUal18KmIiY39HiA5n8xIjIaRqdSWcrbf1mKyC9ggAOlSUhd3oU7Ess7ematwrzxtlz663YkjbQ==",
   "success": true,
-  "projectFilePath": "D:\\W10\\Documents\\GitHub\\TesteWS\\TesteWS.csproj",
+  "projectFilePath": "D:\\W10\\Documents\\curso-senac\\UC-11\\TesteWS\\TesteWS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.5\\microsoft.aspnetcore.jsonpatch.5.0.5.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -164,11 +164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\W10\\Documents\\GitHub\\TesteWS\\TesteWS.csproj",
+      "projectUniqueName": "D:\\W10\\Documents\\curso-senac\\UC-11\\TesteWS\\TesteWS.csproj",
       "projectName": "TesteWS",
-      "projectPath": "D:\\W10\\Documents\\GitHub\\TesteWS\\TesteWS.csproj",
+      "projectPath": "D:\\W10\\Documents\\curso-senac\\UC-11\\TesteWS\\TesteWS.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-      "outputPath": "D:\\W10\\Documents\\GitHub\\TesteWS\\obj\\",
+      "outputPath": "D:\\W10\\Documents\\curso-senac\\UC-11\\TesteWS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"
